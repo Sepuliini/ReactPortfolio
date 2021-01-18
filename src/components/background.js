@@ -14,6 +14,7 @@ const projectReact = () => {
 
 class Background extends Component {
     render() {
+        
         return (
             <div>
                 <div style={{ width: '100%', margin: 'auto' }}>

@@ -10,7 +10,6 @@ class Aboutme extends Component {
         return (
             <div className = "aboutme-grid">
                <div className="aboutme-banner">
-
                 <img
                 src={bunny}
                 alt="profphoto"

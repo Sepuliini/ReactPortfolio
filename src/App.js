@@ -6,7 +6,6 @@ import Main from './components/routes';
 import { Link } from 'react-router-dom';
 
 function App() {
-    
   return (
     <div className="demo-big-content">
     <Layout>
