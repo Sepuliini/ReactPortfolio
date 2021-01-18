@@ -1,6 +1,6 @@
-# ReactPortfolio
+Personal website made with React
+==============
 
-need to:
-fix typos
-write "about me"
-add picture
+Severi Nättilä
+
+
